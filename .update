@@ -1,1 +1,1 @@
-pip install -U NPhish
+pip install NPhish=0.1.6
